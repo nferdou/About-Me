@@ -5,7 +5,7 @@
 - <b>Geo-Sentinel Threat Monitoring</b>
   - [....](https://github.com/)
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/Nadia987/)
+  - [Active Directory Bulk User Creation]([https://github.com/Nadia987/](https://github.com/nferdou/ActiveDirectoryAutomation))
 
 <h2>📄 Certifications:</h2>
 
