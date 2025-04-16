@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Geo-Sentinel Threat Monitoring</b>
-  - [....](https://github.com/)
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/nferdou/ActiveDirectoryAutomation)
+  - [Geo-Sentinel Threat Monitoring](https://github.com/nferdou/GeoLocationThreatMonitoring)
+- <b>Active Directory Automation</b>
+  - [Active Directory Automation](https://github.com/nferdou/ActiveDirectoryAutomation)
 
 <h2>📄 Certifications:</h2>
 
